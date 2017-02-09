@@ -1,0 +1,42 @@
+Hello
+Enter the total of your bill: 20
+Enter the percentage you wish to tip: 15
+Your bill was: 20.0
+Your tip was: 3.0
+Your total is: 23.0
+Enter the number of people splitting the bill: 
+2
+Each person should pay: 11.5
+thank you, have a nice day!
+millerg2@aldenv3:~/lab3$ java Lab3
+Gary Miller
+Lab 3
+Thu Jan 30 16:17:16 EST 2014
+
+Hello
+Enter the total of your bill: 25
+Enter the percentage you wish to tip: 20
+Your bill was: 25.0
+Your tip was: 5.0
+Your total is: 30.0
+Enter the number of people splitting the bill: 
+4
+Each person should pay: 7.5
+thank you, have a nice day!
+millerg2@aldenv3:~/lab3$ java Lab3
+Gary Miller
+Lab 3
+Thu Jan 30 16:17:25 EST 2014
+
+Hello
+Enter the total of your bill: 50
+Enter the percentage you wish to tip: 25
+Your bill was: 50.0
+Your tip was: 12.5
+Your total is: 62.5
+Enter the number of people splitting the bill: 
+6
+Each person should pay: 10.416666666666666
+thank you, have a nice day!
+millerg2@aldenv3:~/lab3$ 
+
